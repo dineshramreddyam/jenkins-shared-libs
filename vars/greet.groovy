@@ -1,3 +1,3 @@
 def call(name, work) {
-  echo"Hi ${name}, & your age is ${work} welcome to jenkins libs"
+  echo"Hi ${name}, & your work is ${work} welcome to jenkins libs"
 }
